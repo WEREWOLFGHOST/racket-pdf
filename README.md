@@ -1,2 +1,2 @@
 # racket-pdf
-A racket llibrary for pdf files.
+A racket library for pdf files.
